@@ -22,7 +22,7 @@ This repo contains the source code and instructions to reproduce the results of 
 
 ### Clone this repository
 ```
-git clone https://github.com/lkfo415579/NBCL-marian
+git clone https://github.com/lkfo415579/norm-nmt
 cd NBCL-marian
 mkdir build
 cd build
